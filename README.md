@@ -24,6 +24,6 @@ If you are developing a production application, we recommend using TypeScript an
 2. npm run dev
 
 
-# Uzduotis-1
+# React-2 skaidres Uzduotis-1
 
 Perduoti spalvos propsa ir nuspalvinti  elementa.

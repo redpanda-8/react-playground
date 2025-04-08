@@ -1,7 +1,7 @@
 import './App.css'
-import { Uzduotis1 } from './assets/Components/Uzduotis1'
-import { Uzduotis2 } from './assets/Components/Uzduotis2'
-import { Uzduotis3 } from './assets/Components/Uzduotis3'
+import { Uzduotis1 } from './assets/Components/React2/Uzduotis1'
+import { Uzduotis2 } from './assets/Components/React2/Uzduotis2'
+import { Uzduotis3 } from './assets/Components/React2/Uzduotis3'
 
 function App() {
 
